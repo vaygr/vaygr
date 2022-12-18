@@ -1,4 +1,4 @@
-<a href="https://github.com/vaygr"><img src="https://github-readme-stats.vercel.app/api?username=vaygr&count_private=false&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=vaygr%27s+GitHub+Stats" /></a>
+<a href="https://github.com/vaygr"><img src="https://github-readme-stats.vercel.app/api?username=vaygr&count_private=false&show_icons=true&include_all_commits=true&custom_title=vaygr%27s+GitHub+Stats&title_color=0f0&text_color=397ff7&icon_color=0ff&bg_color=000&hide_title=true" /></a>
 
 ## PGP
 
